@@ -109,7 +109,7 @@
       "name": "Fintone",
       "createdAt": "2022-10-05 13:06:24",
       "updatedAt": "2021-05-30 05:49:58",
-      "operator": "Joyann",
+      "operator": "anpham",
       "status": "On hold"
     },
     {
@@ -133,7 +133,7 @@
       "name": "Tin",
       "createdAt": "2021-11-10 02:49:53",
       "updatedAt": "2021-10-18 02:37:36",
-      "operator": "Delano",
+      "operator": "anpham",
       "status": "Completed"
     },
     {
@@ -149,7 +149,7 @@
       "name": "Opela",
       "createdAt": "2021-12-09 12:36:12",
       "updatedAt": "2022-01-01 12:20:53",
-      "operator": "Giusto",
+      "operator": "anpham",
       "status": "Completed"
     },
     {
@@ -163,7 +163,7 @@
     {
       "id": 21,
       "name": "task 21 Update",
-      "operator": "Sophey",
+      "operator": "anpham",
       "status": "On hold",
       "createdAt": "2022-01-14T04:31:48.153Z",
       "updatedAt": "2022-01-14T04:35:13.128Z"
