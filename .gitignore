@@ -144,3 +144,6 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/node
 1
+
+#VS Code
+/.history
